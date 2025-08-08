@@ -4,7 +4,7 @@ I'm a **Front-End Developer** with professional experience since **May 2018**, p
 
 ### 👨‍💻 What I Do
 - Specialize in **Angular**, **React**, and modern front-end technologies
-- Previously worked with **Nx** (3 years ago) on scalable mono-repo architectures
+- Previously worked with **Nx** on scalable mono-repo architectures
 - Enjoy contributing to open-source projects and writing maintainable code
 
 ### 🚀 I’m always looking to:
