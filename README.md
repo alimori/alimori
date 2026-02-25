@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm @alimori (Ali Mortazavi)
 
-I'm a **Front-End Developer** with professional experience since **May 2018**, passionate about building clean, scalable, and modern web applications.
+I'm a **Full Stack Developer** with professional experience since **May 2018**, passionate about building clean, scalable, and modern web applications.
 
 ### 👨‍💻 What I Do
 - Specialize in **Angular**, **React**, and modern front-end technologies
@@ -8,7 +8,7 @@ I'm a **Front-End Developer** with professional experience since **May 2018**, p
 - Enjoy contributing to open-source projects and writing maintainable code
 
 ### 🚀 I’m always looking to:
-- Explore new tools and frameworks
+- Explore new tools and frameworks (Python, FastApi, Django, Go)
 - Work with high-impact teams on challenging projects
 - Keep learning and improving as a developer
 
